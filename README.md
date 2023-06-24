@@ -13,7 +13,7 @@ Pensando em uma API de carrinho de compras, onde o usuário consegue fazer pedid
 No seu terminal, clone o projeto com o comando abaixo:
 
 ```bash
-git clone https://github.com/NikolasOliveir4/cucohealth-api.git
+git clone https://github.com/NikolasOliveir4/MasterDaWebAPI.git
 ```
 ---
 
